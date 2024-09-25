@@ -1,0 +1,42 @@
+*,*::after,*::before{
+   box-sizing: boder-box;
+}
+
+*{
+margin:0px;
+padding:0px;
+}
+
+body{
+      width:100vw;
+      height: 100vh;
+      display: flex;
+      /* justify-content: start; */
+      
+      /* align-items: center; */
+    
+}
+
+button {
+   width: 100px;
+   height: 40px;
+    padding: 10px;
+    margin-left: 23px;
+    margin-top: 23px;
+    font-weight: bold;
+    background: #3724ea;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    scale: 1;
+    transition: ;
+
+
+}
+
+button:hover{
+    cursor: pointer;
+    scale: 1.2;
+    background: #1ce563;
+}

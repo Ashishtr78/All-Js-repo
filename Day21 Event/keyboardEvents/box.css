@@ -1,0 +1,22 @@
+
+
+
+*{
+  box-sizing: border-box;
+margin:0px;
+padding:0px;
+}
+
+body{
+      width:100vw;
+      heigth:100vh;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    left: 20px;
+    top: 20px;
+    background-color: red;
+    position: absolute;
+}

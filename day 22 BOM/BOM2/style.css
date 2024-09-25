@@ -1,0 +1,19 @@
+*,*::after,*::before{
+   box-sizing: boder-box;
+}
+
+*{
+margin:0px;
+padding:0px;
+}
+
+body{
+      width:100vw;
+      heigth:100vh;
+}
+
+code{
+    width: 400px;
+    height: 400px;
+    background: #000;
+}
